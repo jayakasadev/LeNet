@@ -5,9 +5,9 @@ Implement the LeNet-5 deep neural network model.
 ### Dependencies
 This lab requires:
 
-* [TensorFlow](https://www.tensorflow.org/)
+[TensorFlow](https://www.tensorflow.org/)
 
-Use [Anaconda](https://www.continuum.io/downloads) to install the dependencies:
+Use [Anaconda](https://www.continuum.io/downloads) to install the dependencies
 
 ### GPU
 If you have access to an NVIDIA GPU, you can accelerate the training of your network by using TensorFlow on a GPU.
